@@ -1,0 +1,48 @@
+.black{
+  background-color: black;
+}
+.start{
+  background-color: white;
+  height: 100vh;
+}
+
+.top{
+  margin-top: 25px;
+}
+
+.top-left{
+  height: 50px;
+  margin-left: 25px
+}
+
+.top-right{
+  margin-top: 25px;
+  margin-right: 5px;
+  margin-left: 15px;
+  margin-bottom: 30px;
+  height: 20px;
+}
+
+.tron{
+  height: 300px;
+  margin-left: 25px;
+  margin-top: 50px;
+}
+
+.mega{
+  height: 20px;
+  margin-left: 25px;
+  margin-top: 30px;
+}
+
+.bee{
+  margin-left: 25px;
+  margin-top: 20px;
+  height: 150px;
+}
+
+.box{
+  height: 150px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
