@@ -1,48 +1,31 @@
 .black{
   background-color: black;
 }
-.start{
-  background-color: white;
-  height: 100vh;
+
+.sm-height{
+  height: 60px;
 }
 
-.top{
-  margin-top: 25px;
-}
-
-.top-left{
-  height: 50px;
-  margin-left: 25px
-}
-
-.top-right{
-  margin-top: 25px;
-  margin-right: 5px;
-  margin-left: 15px;
-  margin-bottom: 30px;
+.xs-height{
   height: 20px;
 }
 
-.tron{
-  height: 300px;
-  margin-left: 25px;
+.md-height{
+  height: 180px;
+}
+
+.lg-height{
+  height:540px;
+}
+
+.gap{
+  margin: 0 20px;
+}
+
+.big{
+  margin-top: 20px;
+}
+
+#outer{
   margin-top: 50px;
-}
-
-.mega{
-  height: 20px;
-  margin-left: 25px;
-  margin-top: 30px;
-}
-
-.bee{
-  margin-left: 25px;
-  margin-top: 20px;
-  height: 150px;
-}
-
-.box{
-  height: 150px;
-  margin-left: 20px;
-  margin-top: 20px;
 }
