@@ -1,0 +1,31 @@
+.black{
+  background-color: black;
+}
+
+.sm-height{
+  height: 60px;
+}
+
+.xs-height{
+  height: 20px;
+}
+
+.md-height{
+  height: 180px;
+}
+
+.lg-height{
+  height:540px;
+}
+
+.gap{
+  margin: 0 20px;
+}
+
+.big{
+  margin-top: 20px;
+}
+
+#outer{
+  margin-top: 50px;
+}
